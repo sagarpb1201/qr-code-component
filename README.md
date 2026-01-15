@@ -25,7 +25,7 @@ In this challenge I built the QR code page by Frontend mentors. After long time 
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-AwebMcKTOk)
-- Live Site URL: [Live]([https://your-live-site-url.com](https://harmonious-dragon-bb2d06.netlify.app/)
+- Live Site URL: [Live](https://harmonious-dragon-bb2d06.netlify.app/)
 
 ## My process
 I started building the design with mobile first approach. I used flexbox to align the elements as per the design layout. I used css variables to avoid repeating the styles.
